@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/ClickyGame/static/css/main.283e34c6.chunk.css",
+    "main.js": "/ClickyGame/static/js/main.ebd8c11b.chunk.js",
+    "main.js.map": "/ClickyGame/static/js/main.ebd8c11b.chunk.js.map",
+    "runtime-main.js": "/ClickyGame/static/js/runtime-main.96360b1b.js",
+    "runtime-main.js.map": "/ClickyGame/static/js/runtime-main.96360b1b.js.map",
+    "static/js/2.f93be790.chunk.js": "/ClickyGame/static/js/2.f93be790.chunk.js",
+    "static/js/2.f93be790.chunk.js.map": "/ClickyGame/static/js/2.f93be790.chunk.js.map",
+    "index.html": "/ClickyGame/index.html",
+    "precache-manifest.5a3aa91c49edb6f0bca003879d68ff8a.js": "/ClickyGame/precache-manifest.5a3aa91c49edb6f0bca003879d68ff8a.js",
+    "service-worker.js": "/ClickyGame/service-worker.js",
+    "static/css/main.283e34c6.chunk.css.map": "/ClickyGame/static/css/main.283e34c6.chunk.css.map",
+    "static/media/angular.png": "/ClickyGame/static/media/angular.e3630319.png",
+    "static/media/butterfly.jpg": "/ClickyGame/static/media/butterfly.321b172f.jpg",
+    "static/media/firebase.png": "/ClickyGame/static/media/firebase.53a9801d.png",
+    "static/media/handlebars.png": "/ClickyGame/static/media/handlebars.ebfef414.png",
+    "static/media/javascript.png": "/ClickyGame/static/media/javascript.3d38032a.png",
+    "static/media/mongo.png": "/ClickyGame/static/media/mongo.50c8788f.png",
+    "static/media/mysql.png": "/ClickyGame/static/media/mysql.e24b1d1e.png",
+    "static/media/node.png": "/ClickyGame/static/media/node.854654e5.png",
+    "static/media/npm.png": "/ClickyGame/static/media/npm.14a1476e.png",
+    "static/media/react.png": "/ClickyGame/static/media/react.cb25673b.png",
+    "static/media/sequelize.png": "/ClickyGame/static/media/sequelize.6b8e81c3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96360b1b.js",
+    "static/js/2.f93be790.chunk.js",
+    "static/css/main.283e34c6.chunk.css",
+    "static/js/main.ebd8c11b.chunk.js"
+  ]
+}
